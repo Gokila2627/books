@@ -1,0 +1,18 @@
+
+body{
+    margin:0;
+    padding:0;
+    background-image: url("bg.lnk");
+    background-size: cover;
+}
+.container{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.card{
+    padding: 80px 100px 70px 60px;
+    background-color: aliceblue;
+    border-radius: 40px;
+}
